@@ -1,0 +1,22 @@
+body.dark {
+  --bg: #0f0f12;
+  --bg-card: #1c1c22;
+  --bg-header: rgba(15,15,18,0.92);
+  --bg-drawer: #1c1c22;
+  --text-primary: #f4f4f5;
+  --text-secondary: #a1a1aa;
+  --text-muted: #71717a;
+  --border: #2e2e38;
+  --accent-light: rgba(108,71,255,0.15);
+  --shadow-lg: 0 8px 40px rgba(0,0,0,0.5);
+}
+body.dark .product-img-wrap { background: #252530; }
+body.dark .cart-item-img { background: #252530; }
+body.dark .modal-img-col { background: #252530; }
+body.dark .search-input { background: var(--bg-card); }
+body.dark .sort-select { background: var(--bg-card); }
+body.dark .cat-btn { background: var(--bg-card); }
+body.dark .clear-filters-btn { background: var(--bg-card); }
+body.dark .compare-card { background: #252530; }
+body.dark .checkout-item { background: #252530; }
+body.dark .wishlist-btn { background: rgba(28,28,34,0.9); }
