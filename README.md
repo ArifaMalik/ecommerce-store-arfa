@@ -3,7 +3,7 @@
 
 A full-featured e-commerce web application that allows users to browse products, manage their cart, and complete secure checkouts. Built with a modern JavaScript stack and designed for scalability and ease of maintenance.
 
- Lie Demo:https://www.loom.com/share/5dda3e7210584e00824614ce319dfa88
+ Lie Demo:https://www.loom.com/share/76af1ffc50bd4ca88ae73d6fead6a01c
 
  
 ## 📖 Table of Contents
@@ -63,8 +63,8 @@ A full-featured e-commerce web application that allows users to browse products,
 
 ## 🎥 Demo
 
-🔗 **Live Site:https://www.loom.com/share/5dda3e7210584e00824614ce319dfa88
-
+🔗 **Live Site:
+https://www.loom.com/share/76af1ffc50bd4ca88ae73d6fead6a01c
 
 
 ---
