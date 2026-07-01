@@ -3,7 +3,7 @@
 
 A full-featured e-commerce web application that allows users to browse products, manage their cart, and complete secure checkouts. Built with a modern JavaScript stack and designed for scalability and ease of maintenance.
 
- Lie Demo:
+ Lie Demo:https://www.loom.com/share/5dda3e7210584e00824614ce319dfa88
 
  
 ## 📖 Table of Contents
@@ -63,8 +63,46 @@ A full-featured e-commerce web application that allows users to browse products,
 
 ## 🎥 Demo
 
-🔗 **Live Site:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
+🔗 **Live Site:https://www.loom.com/share/5dda3e7210584e00824614ce319dfa88
+
+
 
 ---
 
 ## 📁 Project Structure
+
+
+ecommerce-store-your-name/
+│
+├── index.html         
+│
+├── css/
+│   ├── style.css       
+│   ├── dark-mode.css   
+│   └── skeleton.css    
+│
+├── js/
+│   ├── app.js          
+│   ├── api.js       
+│   ├── cart.js         
+│   ├── filters.js      
+│   ├── products.js     
+│   └── ui.js         
+│
+└── README.md           
+
+
+
+
+
+
+sreenshots:
+<img width="1366" height="768" alt="2026-07-01 (1)" src="https://github.com/user-attachments/assets/2a9e7e73-9dca-4c61-810e-5cbb1429c1c6" />
+<img width="1366" height="768" alt="2026-07-01" src="https://github.com/user-attachments/assets/73b8efbc-1e25-4dfe-bd52-54e458ddb81c" />
+
+
+
+
+
+
+
